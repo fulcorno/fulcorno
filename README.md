@@ -8,6 +8,9 @@
 
 | Year | Course | Webpage | GitHub | YouTube |
 |------|------|------|------|------|
+| 2021/22 | Informatica | http://bit.ly/polito-informatica | [`polito-Info-2021`](https://github.com/polito-info-2021/) | [Lectures playlist](https://youtube.com/playlist?list=PLqRTLlwsxDL_O2e73lHQvJyucwpcMQUnO) |
+| 2021/22 | Human Computer Interaction | http://bit.ly/polito-hci | [`polito-hci-2021`](https://github.com/polito-hci-2021) | [Lectures playlist](https://youtube.com/playlist?list=PLs7DWGc_wmwT-1N2vbRkLWrM6LIker9A-) |
+||||||
 | 2020/21 | Web Applications I | http://bit.ly/polito-wa1 | [`polito-WA1-AW1-2021`](https://github.com/polito-WA1-AW1-2021) | [Lectures playlist](https://www.youtube.com/watch?v=cBS5XPNU3Fc&list=PLqRTLlwsxDL9vSKdXgAm-_LMHl-AoK7ET) |
 | 2020/21 | Tecniche di Programmazione | http://bit.ly/tecn-progr | [`TdP-2021`](https://github.com/TdP-2021) | [Lectures playlist](https://www.youtube.com/playlist?list=PLqRTLlwsxDL8_vDc5V_1f7l8JgD8ebnX-) |
 | 2020/21 | Human Computer Interaction | http://bit.ly/polito-hci | [`polito-hci-2020`](https://github.com/polito-hci-2020) | [Lectures playlist](https://www.youtube.com/playlist?list=PLs7DWGc_wmwQ7ipQNDCLOhoB2I9PpscpD) |
