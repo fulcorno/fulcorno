@@ -1,6 +1,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/fulcorno?style=social)](https://github.com/fulcorno)
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCq4WiUOGhpPtVDOznAr8rcQ?style=social)](https://www.youtube.com/channel/UCq4WiUOGhpPtVDOznAr8rcQ)
+[![YouTube Views](https://img.shields.io/youtube/channel/views/UCq4WiUOGhpPtVDOznAr8rcQ?style=social)](https://www.youtube.com/channel/UCq4WiUOGhpPtVDOznAr8rcQ)
 [![Twitter Follow](https://img.shields.io/twitter/follow/fulcorno?style=social)](https://twitter.com/fulcorno)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/109292238002478110?domain=https%3A%2F%2Fmastodon.uno&style=social)](https://mastodon.uno/@fulcorno)
+
+
 
 ### Fulvio Corno, Computer Engineering professor at Politecnico di Torino, Italy
 
@@ -8,6 +11,10 @@
 
 | Year | Course | Webpage | GitHub | YouTube |
 |------|------|------|------|------|
+| 2022/23 | Tecniche di Programmazione | http://bit.ly/tecn-progr | [`TdP-2023`](https://github.com/TdP-2023/) | [Lectures playlist](https://youtube.com/playlist?list=PLqRTLlwsxDL9ClNsiXVXH3vpgcpBSWK7U) |
+| 2022/23 | Web Applications I | https://bit.ly/polito-wa1-ah | [`polito-WA1-AW1-2023`](https://github.com/polito-WA1-AW1-2023) | [Lectures playlist](https://youtube.com/playlist?list=PLqRTLlwsxDL8WgeiSZVJzjEr1f9aHy2gz) |
+| 2022/23 | Informatica | http://bit.ly/polito-informatica | [`polito-Info-2022`](https://github.com/polito-info-2022/) | [Lectures playlist](https://youtube.com/playlist?list=PLqRTLlwsxDL-yRy3U34aImItjkWhcnSdY) |
+||||||
 | 2021/22 | Tecniche di Programmazione | http://bit.ly/tecn-progr | [`TdP-2022`](https://github.com/TdP-2022/) | [Lectures playlist](https://youtube.com/playlist?list=PLqRTLlwsxDL-kPjZmrUOqZfk63V6dGQZ7) |
 | 2021/22 | Web Applications I | http://bit.ly/polito-wa1 | [`polito-WA1-AW1-2022`](https://github.com/polito-WA1-AW1-2022) | [Lectures playlist](https://youtube.com/playlist?list=PLqRTLlwsxDL8LogzYk6FrGEM20us5Wkzh) |
 | 2021/22 | Informatica | http://bit.ly/polito-informatica | [`polito-Info-2021`](https://github.com/polito-info-2021/) | [Lectures playlist](https://youtube.com/playlist?list=PLqRTLlwsxDL_O2e73lHQvJyucwpcMQUnO) |
