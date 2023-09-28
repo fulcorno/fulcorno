@@ -11,6 +11,8 @@
 
 | Year | Course | Webpage | GitHub | YouTube |
 |------|------|------|------|------|
+| 2023/24 | Informatica | http://bit.ly/polito-informatica | [`polito-informatica`](https://github.com/polito-informatica/) | [Lectures playlist](https://www.youtube.com/playlist?list=PLqRTLlwsxDL_RNaOl9PPAVavu8p6j4iQZ) |
+||||||
 | 2022/23 | Tecniche di Programmazione | http://bit.ly/tecn-progr | [`TdP-2023`](https://github.com/TdP-2023/) | [Lectures playlist](https://youtube.com/playlist?list=PLqRTLlwsxDL9ClNsiXVXH3vpgcpBSWK7U) |
 | 2022/23 | Web Applications I | https://bit.ly/polito-wa1-ah | [`polito-WA1-AW1-2023`](https://github.com/polito-WA1-AW1-2023) | [Lectures playlist](https://youtube.com/playlist?list=PLqRTLlwsxDL8WgeiSZVJzjEr1f9aHy2gz) |
 | 2022/23 | Informatica | http://bit.ly/polito-informatica | [`polito-Info-2022`](https://github.com/polito-info-2022/) | [Lectures playlist](https://youtube.com/playlist?list=PLqRTLlwsxDL-yRy3U34aImItjkWhcnSdY) |
