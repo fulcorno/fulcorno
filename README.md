@@ -3,16 +3,14 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/fulcorno?style=social)](https://twitter.com/fulcorno)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/109292238002478110?domain=https%3A%2F%2Fmastodon.uno&style=social)](https://mastodon.uno/@fulcorno)
 
-
-
 ### Fulvio Corno, Computer Engineering professor at Politecnico di Torino, Italy
 
 ## Teaching
 
 | Year | Course | Webpage | GitHub | YouTube |
 |------|------|------|------|------|
-| 2022/23 | Tecniche di Programmazione | | | |
-| 2022/23 | Web Applications I | | | |
+| 2023/24 | Tecniche di Programmazione | http://bit.ly/tecn-progr | [`TdP-2024`](https://github.com/TdP-2024) | |
+| 2023/24 | Web Applications I | https://bit.ly/polito-wa1 | [`polito-webapp1`](https://github.com/polito-webapp1) | |
 | 2023/24 | Informatica | http://bit.ly/polito-informatica | [`polito-informatica`](https://github.com/polito-informatica/) | [Lectures playlist](https://www.youtube.com/playlist?list=PLqRTLlwsxDL_RNaOl9PPAVavu8p6j4iQZ) |
 ||||||
 | 2022/23 | Tecniche di Programmazione | http://bit.ly/tecn-progr | [`TdP-2023`](https://github.com/TdP-2023/) | [Lectures playlist](https://youtube.com/playlist?list=PLqRTLlwsxDL9ClNsiXVXH3vpgcpBSWK7U) |
