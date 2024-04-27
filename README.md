@@ -3,7 +3,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/fulcorno?style=social)](https://twitter.com/fulcorno)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/109292238002478110?domain=https%3A%2F%2Fmastodon.uno&style=social)](https://mastodon.uno/@fulcorno)
 
-### Fulvio Corno, Computer Engineering professor at Politecnico di Torino, Italy
+### Fulvio Corno
+Computer Engineering professor at Politecnico di Torino, Italy
+
+Vice Rector for Education at Politecnico di Torino (2024-2030)
 
 ## Teaching
 
