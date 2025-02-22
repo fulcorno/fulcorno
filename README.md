@@ -12,7 +12,7 @@ Vice Rector for Education at Politecnico di Torino (2024-2030)
 
 | Year | Course | Webpage | GitHub | YouTube |
 |------|------|------|------|------|
-| 2024/25 | Web Applications I | https://bit.ly/polito-wa1 | [`polito-webapp1`](https://github.com/polito-webapp1) |  |
+| 2024/25 | Web Applications I | https://bit.ly/polito-wa1 | [`polito-webapp1`](https://github.com/polito-webapp1) | [Lectures playlist](https://youtube.com/playlist?list=PLqRTLlwsxDL9wpn33l59ygSl4PuCcg9vI) |
 | 2024/25 | Informatica | https://bit.ly/polito-informatica | [`polito-informatica`](https://github.com/polito-informatica/) | [Lectures playlist](https://www.youtube.com/playlist?list=PLqRTLlwsxDL9cZ3q_zrfqpuXvMMy10GFs) |
 ||||||
 | 2023/24 | Tecniche di Programmazione | http://bit.ly/tecn-progr | [`TdP-2024`](https://github.com/TdP-2024) | [Lectures playlist](https://youtube.com/playlist?list=PLqRTLlwsxDL9MLIhL4z0Has1BVcGO4krI&si=h2MngIj4YOMzfq9L) |
